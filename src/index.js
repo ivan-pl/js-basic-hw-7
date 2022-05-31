@@ -1,4 +1,3 @@
 import "normalize.css";
-import { addHeader } from "./addHeader";
-
-addHeader(document.body);
+import "./index.html";
+import "./index.css";
